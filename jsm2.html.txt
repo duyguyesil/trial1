@@ -1,0 +1,12 @@
+<div class="container">
+  <div id="jumper" class="inner-container">
+    <div class="head">
+      <span>&nbsp;. .</span>
+    </div>
+    <div class="body"></div>
+    <div class="arm right-arm"></div>
+    <div class="arm left-arm"></div>
+    <div class="leg right-leg"></div>
+    <div class="leg left-leg"></div>
+  </div>
+</div>
